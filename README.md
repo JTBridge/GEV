@@ -9,5 +9,4 @@ Multiclass version will be added soon.
 
 Current implementation is tested on:
 - Python 3.8.2
-- Tensorflow 2.2.0
-- Keras-GPU 2.4.3
+- Tensorflow 2.4
